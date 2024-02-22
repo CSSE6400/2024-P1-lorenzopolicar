@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-lorenzopolicar"
+version = "0.1.0"
+description = ""
+authors = ["Lorenzo Policar <lorenzo_policar@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
